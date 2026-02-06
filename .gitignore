@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+# Solo necesitamos node_modules en la raíz
+
+# Build output
+back/dist/
+front/dist/
+front/dist-ssr/
+
+# Environment variables
+.env
+.env.local
+back/.env
+front/.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vite
+front/.vite
