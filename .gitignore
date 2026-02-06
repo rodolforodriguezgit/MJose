@@ -8,8 +8,7 @@ front/dist/
 front/dist-ssr/
 
 # Environment variables
-.env
-.env.local
+
 back/.env
 front/.env
 
