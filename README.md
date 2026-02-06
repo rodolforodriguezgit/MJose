@@ -23,15 +23,15 @@ Antes de comenzar, asegúrate de tener instalado:
 
 
 
+
 ### Paso 1: Clonar o Descargar el Proyecto
 
-Si tienes el proyecto en un repositorio Git:
 
 git clone https://github.com/rodolforodriguezgit/MJose
 
 ### Paso 2: Instalar Dependencias
 
-Instala todas las dependencias del proyecto (backend y frontend) desde la raíz:
+Instala todas las dependencias del proyecto (backend y frontend) desde la raíz de proyecto (no es necesario ir a cada carpeta front y back para hacer el npm i) desde la raiz del proyecto:
 
 
 npm install

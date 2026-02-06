@@ -1,4 +1,3 @@
-import dotenv from 'dotenv';
 import { ExpressApp } from './app/ExpressApp';
 import { InMemorySalesRepository } from './infrastructure/repositories/InMemorySalesRepository';
 import { SalesService } from './application/services/SalesService';
@@ -6,9 +5,6 @@ import { SalesController } from './presentation/controllers/SalesController';
 import { createSalesRoutes } from './presentation/routes/salesRoutes';
 import { Sale } from './domain/entities/Sale';
 import { initialSalesData } from './app/initialData';
-
-
-dotenv.config();
 
 
 class Application {
