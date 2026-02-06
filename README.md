@@ -38,10 +38,6 @@ npm install
 
 
 
-
-
-
-
 ### Paso 3: Ejecutar el Proyecto
 
 Ejecuta ambos proyectos (backend + frontend) con un solo comando:
@@ -71,8 +67,6 @@ Abre tu navegador y visita:
 - **Backend API:** http://localhost:3000/api
 
 |
-
-### Solución de Problemas
 
 ## 📚 Endpoints de la API
 
