@@ -90,11 +90,8 @@ Obtiene estadísticas generales del sistema.
 
 
 
-Este proyecto cumple con todas las restricciones establecidas:
-
-✅ **No usar frameworks de generación automática de código**
 - **Backend**: No se utilizó `express-generator`, `nest-cli` ni ningún otro generador
-- **Frontend**: No se utilizó `create-react-app`, `vite create`, `angular-cli` ni ningún otro generador
+- **Frontend**: No se utilizó `create-react-app`, `vite create` ni ningún otro generador
 - Todo el código (backend y frontend) fue escrito manualmente desde cero
 
 ### 1. ¿Cómo escalarías esta solución si los datos estuvieran en AWS S3?
